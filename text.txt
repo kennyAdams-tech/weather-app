@@ -1,0 +1,39 @@
+For code 500 - light rain icon = "10d". See below a full list of codes
+URL is https://openweathermap.org/img/wn/10d@2x.png
+
+Icon list
+Day icon	Night icon	Description
+01d.png 	01n.png 	clear sky
+02d.png 	02n.png 	few clouds
+03d.png 	03n.png 	scattered clouds
+04d.png 	04n.png 	broken clouds
+09d.png 	09n.png 	shower rain / drizzle
+10d.png 	10n.png 	rain
+11d.png 	11n.png 	thunderstorm
+13d.png 	13n.png 	snow
+50d.png 	50n.png 	mist
+
+
+https://api.openweathermap.org/data/2.5/weather?q={city name}&units=metric&appid={API key}
+274fb8dc6dcb7ce46e6471d616824344
+
+
+<span>°C</span>
+
+temperature
+date
+description
+humidity
+wind
+
+
+
+
+
+
+
+
+
+
+
+
